@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2023-10-29"
+date-modified: "2023-11-05"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -618,7 +618,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.4.451'
+[1] '1.4.480'
 
 ```
 
@@ -634,7 +634,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
- version  R version 4.3.1 (2023-06-16)
+ version  R version 4.3.2 (2023-10-31)
  os       Ubuntu 22.04.3 LTS
  system   x86_64, linux-gnu
  ui       X11
@@ -642,7 +642,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2023-10-29
+ date     2023-11-05
  pandoc   3.1.1 @ /usr/bin/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -652,18 +652,18 @@ To thank the contributors or maintainers of packages you rely on.
  desc          1.4.2   2022-09-08 [1] RSPM
  details     * 0.3.0   2022-03-27 [1] RSPM
  digest        0.6.33  2023-07-07 [1] RSPM
- evaluate      0.22    2023-09-29 [1] RSPM
+ evaluate      0.23    2023-11-01 [1] RSPM
  fastmap       1.1.1   2023-02-24 [1] RSPM
  htmltools     0.5.6.1 2023-10-06 [1] RSPM
  httr          1.4.7   2023-08-15 [1] RSPM
  jsonlite      1.8.7   2023-06-29 [1] RSPM
- knitr         1.44    2023-09-11 [1] RSPM
+ knitr         1.45    2023-10-30 [1] RSPM
  later         1.3.1   2023-05-02 [1] RSPM
  magrittr      2.0.3   2022-03-30 [1] RSPM
  png           0.1-8   2022-11-29 [1] RSPM
  processx      3.8.2   2023-06-30 [1] RSPM
  ps            1.7.5   2023-04-18 [1] RSPM
- quarto        1.3.4   2023-10-22 [1] Github (quarto-dev/quarto-r@8173583)
+ quarto        1.3.4   2023-11-05 [1] Github (quarto-dev/quarto-r@8173583)
  R6            2.5.1   2021-08-19 [1] RSPM
  Rcpp          1.0.11  2023-07-06 [1] RSPM
  rlang         1.1.1   2023-04-28 [1] RSPM
@@ -671,14 +671,14 @@ To thank the contributors or maintainers of packages you rely on.
  rprojroot     2.0.3   2022-04-02 [1] RSPM
  rstudioapi    0.15.0  2023-07-07 [1] RSPM
  sessioninfo   1.2.2   2021-12-06 [1] any (@1.2.2)
- withr         2.5.1   2023-09-26 [1] RSPM
- xfun          0.40    2023-08-09 [1] RSPM
+ withr         2.5.2   2023-10-30 [1] RSPM
+ xfun          0.41    2023-11-01 [1] RSPM
  xml2          1.3.5   2023-07-06 [1] RSPM
  yaml          2.3.7   2023-01-23 [1] RSPM
 
  [1] /home/runner/work/_temp/Library
- [2] /opt/R/4.3.1/lib/R/site-library
- [3] /opt/R/4.3.1/lib/R/library
+ [2] /opt/R/4.3.2/lib/R/site-library
+ [3] /opt/R/4.3.2/lib/R/library
 
 ──────────────────────────────────────────────────────────────────────────────
 
