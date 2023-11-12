@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2023-11-05"
+date-modified: "2023-11-12"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -618,7 +618,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.4.480'
+[1] '1.4.489'
 
 ```
 
@@ -642,7 +642,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2023-11-05
+ date     2023-11-12
  pandoc   3.1.1 @ /usr/bin/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -654,7 +654,7 @@ To thank the contributors or maintainers of packages you rely on.
  digest        0.6.33  2023-07-07 [1] RSPM
  evaluate      0.23    2023-11-01 [1] RSPM
  fastmap       1.1.1   2023-02-24 [1] RSPM
- htmltools     0.5.6.1 2023-10-06 [1] RSPM
+ htmltools     0.5.7   2023-11-03 [1] RSPM
  httr          1.4.7   2023-08-15 [1] RSPM
  jsonlite      1.8.7   2023-06-29 [1] RSPM
  knitr         1.45    2023-10-30 [1] RSPM
@@ -666,9 +666,9 @@ To thank the contributors or maintainers of packages you rely on.
  quarto        1.3.4   2023-11-05 [1] Github (quarto-dev/quarto-r@8173583)
  R6            2.5.1   2021-08-19 [1] RSPM
  Rcpp          1.0.11  2023-07-06 [1] RSPM
- rlang         1.1.1   2023-04-28 [1] RSPM
+ rlang         1.1.2   2023-11-04 [1] RSPM
  rmarkdown     2.25    2023-09-18 [1] RSPM
- rprojroot     2.0.3   2022-04-02 [1] RSPM
+ rprojroot     2.0.4   2023-11-05 [1] RSPM
  rstudioapi    0.15.0  2023-07-07 [1] RSPM
  sessioninfo   1.2.2   2021-12-06 [1] any (@1.2.2)
  withr         2.5.2   2023-10-30 [1] RSPM
