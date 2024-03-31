@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2024-03-24"
+date-modified: "2024-03-31"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -620,7 +620,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.5.26'
+[1] '1.5.27'
 
 ```
 
@@ -644,7 +644,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2024-03-24
+ date     2024-03-31
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -656,7 +656,7 @@ To thank the contributors or maintainers of packages you rely on.
  digest        0.6.35  2024-03-11 [1] RSPM
  evaluate      0.23    2023-11-01 [1] RSPM
  fastmap       1.1.1   2023-02-24 [1] RSPM
- htmltools     0.5.7   2023-11-03 [1] RSPM
+ htmltools     0.5.8   2024-03-25 [1] RSPM
  httr          1.4.7   2023-08-15 [1] RSPM
  jsonlite      1.8.8   2023-12-04 [1] RSPM
  knitr         1.45    2023-10-30 [1] RSPM
@@ -670,10 +670,10 @@ To thank the contributors or maintainers of packages you rely on.
  Rcpp          1.0.12  2024-01-09 [1] RSPM
  rlang         1.1.3   2024-01-10 [1] RSPM
  rmarkdown     2.26    2024-03-05 [1] RSPM
- rstudioapi    0.15.0  2023-07-07 [1] RSPM
+ rstudioapi    0.16.0  2024-03-24 [1] RSPM
  sessioninfo   1.2.2   2021-12-06 [1] any (@1.2.2)
  withr         3.0.0   2024-01-16 [1] RSPM
- xfun          0.42    2024-02-08 [1] RSPM
+ xfun          0.43    2024-03-25 [1] RSPM
  xml2          1.3.6   2023-12-04 [1] RSPM
  yaml          2.3.8   2023-12-11 [1] RSPM
 
