@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2024-05-12"
+date-modified: "2024-05-19"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -620,7 +620,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.5.33'
+[1] '1.5.37'
 
 ```
 
@@ -644,7 +644,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2024-05-12
+ date     2024-05-19
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -655,7 +655,7 @@ To thank the contributors or maintainers of packages you rely on.
  details     * 0.3.0   2022-03-27 [1] RSPM
  digest        0.6.35  2024-03-11 [1] RSPM
  evaluate      0.23    2023-11-01 [1] RSPM
- fastmap       1.1.1   2023-02-24 [1] RSPM
+ fastmap       1.2.0   2024-05-15 [1] RSPM
  htmltools     0.5.8.1 2024-04-04 [1] RSPM
  httr          1.4.7   2023-08-15 [1] RSPM
  jsonlite      1.8.8   2023-12-04 [1] RSPM
@@ -665,15 +665,15 @@ To thank the contributors or maintainers of packages you rely on.
  png           0.1-8   2022-11-29 [1] RSPM
  processx      3.8.4   2024-03-16 [1] RSPM
  ps            1.7.6   2024-01-18 [1] RSPM
- quarto        1.4.2   2024-04-28 [1] Github (quarto-dev/quarto-r@d71b135)
+ quarto        1.4.2   2024-05-19 [1] Github (quarto-dev/quarto-r@c0d6704)
  R6            2.5.1   2021-08-19 [1] RSPM
  Rcpp          1.0.12  2024-01-09 [1] RSPM
  rlang         1.1.3   2024-01-10 [1] RSPM
- rmarkdown     2.26    2024-03-05 [1] RSPM
+ rmarkdown     2.27    2024-05-17 [1] RSPM
  rstudioapi    0.16.0  2024-03-24 [1] RSPM
  sessioninfo   1.2.2   2021-12-06 [1] any (@1.2.2)
  withr         3.0.0   2024-01-16 [1] RSPM
- xfun          0.43    2024-03-25 [1] RSPM
+ xfun          0.44    2024-05-15 [1] RSPM
  xml2          1.3.6   2023-12-04 [1] RSPM
  yaml          2.3.8   2023-12-11 [1] RSPM
 
