@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2024-06-02"
+date-modified: "2024-06-09"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -620,7 +620,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.5.39'
+[1] '1.5.43'
 
 ```
 
@@ -644,7 +644,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2024-06-02
+ date     2024-06-09
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -668,7 +668,7 @@ To thank the contributors or maintainers of packages you rely on.
  quarto        1.4.2   2024-05-19 [1] Github (quarto-dev/quarto-r@c0d6704)
  R6            2.5.1   2021-08-19 [1] RSPM
  Rcpp          1.0.12  2024-01-09 [1] RSPM
- rlang         1.1.3   2024-01-10 [1] RSPM
+ rlang         1.1.4   2024-06-04 [1] RSPM
  rmarkdown     2.27    2024-05-17 [1] RSPM
  rstudioapi    0.16.0  2024-03-24 [1] RSPM
  sessioninfo   1.2.2   2021-12-06 [1] any (@1.2.2)
