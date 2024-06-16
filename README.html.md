@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2024-06-09"
+date-modified: "2024-06-16"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -620,7 +620,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.5.43'
+[1] '1.5.45'
 
 ```
 
@@ -636,7 +636,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
- version  R version 4.4.0 (2024-04-24)
+ version  R version 4.4.1 (2024-06-14)
  os       Ubuntu 22.04.4 LTS
  system   x86_64, linux-gnu
  ui       X11
@@ -644,7 +644,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2024-06-09
+ date     2024-06-16
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -654,7 +654,7 @@ To thank the contributors or maintainers of packages you rely on.
  desc          1.4.3   2023-12-10 [1] RSPM
  details     * 0.3.0   2022-03-27 [1] RSPM
  digest        0.6.35  2024-03-11 [1] RSPM
- evaluate      0.23    2023-11-01 [1] RSPM
+ evaluate      0.24.0  2024-06-10 [1] RSPM
  fastmap       1.2.0   2024-05-15 [1] RSPM
  htmltools     0.5.8.1 2024-04-04 [1] RSPM
  httr          1.4.7   2023-08-15 [1] RSPM
@@ -665,7 +665,7 @@ To thank the contributors or maintainers of packages you rely on.
  png           0.1-8   2022-11-29 [1] RSPM
  processx      3.8.4   2024-03-16 [1] RSPM
  ps            1.7.6   2024-01-18 [1] RSPM
- quarto        1.4.2   2024-05-19 [1] Github (quarto-dev/quarto-r@c0d6704)
+ quarto        1.4.2   2024-06-16 [1] Github (quarto-dev/quarto-r@f6f750c)
  R6            2.5.1   2021-08-19 [1] RSPM
  Rcpp          1.0.12  2024-01-09 [1] RSPM
  rlang         1.1.4   2024-06-04 [1] RSPM
@@ -678,8 +678,8 @@ To thank the contributors or maintainers of packages you rely on.
  yaml          2.3.8   2023-12-11 [1] RSPM
 
  [1] /home/runner/work/_temp/Library
- [2] /opt/R/4.4.0/lib/R/site-library
- [3] /opt/R/4.4.0/lib/R/library
+ [2] /opt/R/4.4.1/lib/R/site-library
+ [3] /opt/R/4.4.1/lib/R/library
 
 ──────────────────────────────────────────────────────────────────────────────
 
