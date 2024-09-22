@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2024-09-15"
+date-modified: "2024-09-22"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -620,7 +620,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.6.9'
+[1] '1.6.11'
 
 ```
 
@@ -637,14 +637,14 @@ To thank the contributors or maintainers of packages you rely on.
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
  version  R version 4.4.1 (2024-06-14)
- os       Ubuntu 22.04.4 LTS
+ os       Ubuntu 22.04.5 LTS
  system   x86_64, linux-gnu
  ui       X11
  language (EN)
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2024-09-15
+ date     2024-09-22
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -654,18 +654,18 @@ To thank the contributors or maintainers of packages you rely on.
  desc          1.4.3      2023-12-10 [1] RSPM
  details     * 0.3.0      2022-03-27 [1] RSPM
  digest        0.6.37     2024-08-19 [1] RSPM
- evaluate      0.24.0     2024-06-10 [1] RSPM
+ evaluate      1.0.0      2024-09-17 [1] RSPM
  fastmap       1.2.0      2024-05-15 [1] RSPM
  htmltools     0.5.8.1    2024-04-04 [1] RSPM
  httr          1.4.7      2023-08-15 [1] RSPM
- jsonlite      1.8.8      2023-12-04 [1] RSPM
+ jsonlite      1.8.9      2024-09-20 [1] RSPM
  knitr         1.48       2024-07-07 [1] RSPM
  later         1.3.2      2023-12-06 [1] RSPM
  magrittr      2.0.3      2022-03-30 [1] RSPM
  png           0.1-8      2022-11-29 [1] RSPM
  processx      3.8.4      2024-03-16 [1] RSPM
  ps            1.8.0      2024-09-12 [1] RSPM
- quarto        1.4.4.9002 2024-09-01 [1] Github (quarto-dev/quarto-r@3c46699)
+ quarto        1.4.4.9003 2024-09-22 [1] Github (quarto-dev/quarto-r@0fcb998)
  R6            2.5.1      2021-08-19 [1] RSPM
  Rcpp          1.0.13     2024-07-17 [1] RSPM
  rlang         1.1.4      2024-06-04 [1] RSPM
