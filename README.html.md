@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2025-01-05"
+date-modified: "2025-01-12"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -613,7 +613,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.7.5'
+[1] '1.7.9'
 
 ```
 
@@ -637,7 +637,7 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2025-01-05
+ date     2025-01-12
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
 
 ─ Packages ───────────────────────────────────────────────────────────────────
@@ -647,7 +647,7 @@ To thank the contributors or maintainers of packages you rely on.
  desc          1.4.3      2023-12-10 [1] RSPM
  details     * 0.3.0      2022-03-27 [1] RSPM
  digest        0.6.37     2024-08-19 [1] RSPM
- evaluate      1.0.1      2024-10-10 [1] RSPM
+ evaluate      1.0.3      2025-01-10 [1] RSPM
  fastmap       1.2.0      2024-05-15 [1] RSPM
  htmltools     0.5.8.1    2024-04-04 [1] RSPM
  httr          1.4.7      2023-08-15 [1] RSPM
@@ -656,9 +656,9 @@ To thank the contributors or maintainers of packages you rely on.
  later         1.4.1      2024-11-27 [1] RSPM
  magrittr      2.0.3      2022-03-30 [1] RSPM
  png           0.1-8      2022-11-29 [1] RSPM
- processx      3.8.4      2024-03-16 [1] RSPM
+ processx      3.8.5      2025-01-08 [1] RSPM
  ps            1.8.1      2024-10-28 [1] RSPM
- quarto        1.4.4.9003 2024-12-08 [1] Github (quarto-dev/quarto-r@0fcb998)
+ quarto        1.4.4.9004 2025-01-12 [1] Github (quarto-dev/quarto-r@57d8a5b)
  R6            2.5.1      2021-08-19 [1] RSPM
  Rcpp          1.0.13-1   2024-11-02 [1] RSPM
  rlang         1.1.4      2024-06-04 [1] RSPM
@@ -666,7 +666,7 @@ To thank the contributors or maintainers of packages you rely on.
  rstudioapi    0.17.1     2024-10-22 [1] RSPM
  sessioninfo   1.2.2      2021-12-06 [1] any (@1.2.2)
  withr         3.0.2      2024-10-28 [1] RSPM
- xfun          0.49       2024-10-31 [1] RSPM
+ xfun          0.50       2025-01-07 [1] RSPM
  xml2          1.3.6      2023-12-04 [1] RSPM
  yaml          2.3.10     2024-07-26 [1] RSPM
 
