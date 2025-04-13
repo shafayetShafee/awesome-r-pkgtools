@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2025-04-06"
+date-modified: "2025-04-13"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -616,7 +616,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.7.21'
+[1] '1.7.23'
 
 ```
 
@@ -634,7 +634,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
- version  R version 4.4.3 (2025-02-28)
+ version  R version 4.5.0 (2025-04-11)
  os       Ubuntu 24.04.2 LTS
  system   x86_64, linux-gnu
  ui       X11
@@ -642,9 +642,9 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2025-04-06
+ date     2025-04-13
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
- quarto   1.7.21 @ /usr/local/bin/quarto
+ quarto   1.7.23 @ /usr/local/bin/quarto
 
 ─ Packages ───────────────────────────────────────────────────────────────────
  package     * version    date (UTC) lib source
@@ -659,11 +659,11 @@ To thank the contributors or maintainers of packages you rely on.
  httr          1.4.7      2023-08-15 [1] RSPM
  jsonlite      2.0.0      2025-03-27 [1] RSPM
  knitr         1.50       2025-03-16 [1] RSPM
- later         1.4.1      2024-11-27 [1] RSPM
+ later         1.4.2      2025-04-08 [1] RSPM
  png           0.1-8      2022-11-29 [1] RSPM
  processx      3.8.6      2025-02-21 [1] RSPM
  ps            1.9.0      2025-02-18 [1] RSPM
- quarto        1.4.4.9004 2025-03-23 [1] Github (quarto-dev/quarto-r@60d23e4)
+ quarto        1.4.4.9004 2025-04-13 [1] Github (quarto-dev/quarto-r@60d23e4)
  R6            2.6.1      2025-02-15 [1] RSPM
  Rcpp          1.0.14     2025-01-12 [1] RSPM
  rlang         1.1.5      2025-01-17 [1] RSPM
@@ -675,8 +675,8 @@ To thank the contributors or maintainers of packages you rely on.
  yaml          2.3.10     2024-07-26 [1] RSPM
 
  [1] /home/runner/work/_temp/Library
- [2] /opt/R/4.4.3/lib/R/site-library
- [3] /opt/R/4.4.3/lib/R/library
+ [2] /opt/R/4.5.0/lib/R/site-library
+ [3] /opt/R/4.5.0/lib/R/library
  * ── Packages attached to the search path.
 
 ──────────────────────────────────────────────────────────────────────────────
