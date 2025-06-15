@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2025-06-08"
+date-modified: "2025-06-15"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -616,7 +616,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.8.13'
+[1] '1.8.14'
 
 ```
 
@@ -634,7 +634,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
- version  R version 4.5.0 (2025-04-11)
+ version  R version 4.5.1 (2025-06-13)
  os       Ubuntu 24.04.2 LTS
  system   x86_64, linux-gnu
  ui       X11
@@ -642,9 +642,9 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2025-06-08
+ date     2025-06-15
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
- quarto   1.8.13 @ /usr/local/bin/quarto
+ quarto   1.8.14 @ /usr/local/bin/quarto
 
 ─ Packages ───────────────────────────────────────────────────────────────────
  package     * version    date (UTC) lib source
@@ -664,7 +664,7 @@ To thank the contributors or maintainers of packages you rely on.
  png           0.1-8      2022-11-29 [1] RSPM
  processx      3.8.6      2025-02-21 [1] RSPM
  ps            1.9.1      2025-04-12 [1] RSPM
- quarto        1.4.4.9011 2025-06-08 [1] Github (quarto-dev/quarto-r@9901418)
+ quarto        1.4.4.9014 2025-06-15 [1] Github (quarto-dev/quarto-r@03019b9)
  R6            2.6.1      2025-02-15 [1] RSPM
  Rcpp          1.0.14     2025-01-12 [1] RSPM
  rlang         1.1.6      2025-04-11 [1] RSPM
@@ -676,8 +676,8 @@ To thank the contributors or maintainers of packages you rely on.
  yaml          2.3.10     2024-07-26 [1] RSPM
 
  [1] /home/runner/work/_temp/Library
- [2] /opt/R/4.5.0/lib/R/site-library
- [3] /opt/R/4.5.0/lib/R/library
+ [2] /opt/R/4.5.1/lib/R/site-library
+ [3] /opt/R/4.5.1/lib/R/library
  * ── Packages attached to the search path.
 
 ──────────────────────────────────────────────────────────────────────────────
