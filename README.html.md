@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2025-08-10"
+date-modified: "2025-08-17"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -616,7 +616,7 @@ To thank the contributors or maintainers of packages you rely on.
 
 ```r
 
-[1] '1.8.19'
+[1] '1.8.20'
 
 ```
 
@@ -642,9 +642,9 @@ To thank the contributors or maintainers of packages you rely on.
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2025-08-10
+ date     2025-08-17
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
- quarto   1.8.19 @ /usr/local/bin/quarto
+ quarto   1.8.20 @ /usr/local/bin/quarto
 
 ─ Packages ───────────────────────────────────────────────────────────────────
  package     * version    date (UTC) lib source
