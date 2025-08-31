@@ -3,7 +3,7 @@ title: "Awesome R Package Development Tools"
 format: gfm
 toc: true
 keep-md: true
-date-modified: "2025-08-24"
+date-modified: "2025-08-31"
 author: "Indrajeet Patil"
 keywords: ["r packages", "software development", "software engineering", "r"]
 ---
@@ -635,14 +635,14 @@ To thank the contributors or maintainers of packages you rely on.
 ─ Session info ───────────────────────────────────────────────────────────────
  setting  value
  version  R version 4.5.1 (2025-06-13)
- os       Ubuntu 24.04.2 LTS
+ os       Ubuntu 24.04.3 LTS
  system   x86_64, linux-gnu
  ui       X11
  language (EN)
  collate  C.UTF-8
  ctype    C.UTF-8
  tz       UTC
- date     2025-08-24
+ date     2025-08-31
  pandoc   3.1.1 @ /opt/hostedtoolcache/pandoc/3.1.1/x64/ (via rmarkdown)
  quarto   1.8.21 @ /usr/local/bin/quarto
 
@@ -653,19 +653,19 @@ To thank the contributors or maintainers of packages you rely on.
  desc          1.4.3      2023-12-10 [1] RSPM
  details     * 0.4.0      2025-02-09 [1] RSPM
  digest        0.6.37     2024-08-19 [1] RSPM
- evaluate      1.0.4      2025-06-18 [1] RSPM
+ evaluate      1.0.5      2025-08-27 [1] RSPM
  fastmap       1.2.0      2024-05-15 [1] RSPM
  htmltools     0.5.8.1    2024-04-04 [1] RSPM
  htmlwidgets   1.6.4      2023-12-06 [1] RSPM
  httr          1.4.7      2023-08-15 [1] RSPM
  jsonlite      2.0.0      2025-03-27 [1] RSPM
  knitr         1.50       2025-03-16 [1] RSPM
- later         1.4.3      2025-08-20 [1] RSPM
+ later         1.4.4      2025-08-27 [1] RSPM
  lifecycle     1.0.4      2023-11-07 [1] RSPM
  png           0.1-8      2022-11-29 [1] RSPM
  processx      3.8.6      2025-02-21 [1] RSPM
  ps            1.9.1      2025-04-12 [1] RSPM
- quarto        1.5.0.9000 2025-08-03 [1] Github (quarto-dev/quarto-r@687ccbc)
+ quarto        1.5.0.9000 2025-08-31 [1] Github (quarto-dev/quarto-r@687ccbc)
  R6            2.6.1      2025-02-15 [1] RSPM
  Rcpp          1.1.0      2025-07-02 [1] RSPM
  rlang         1.1.6      2025-04-11 [1] RSPM
